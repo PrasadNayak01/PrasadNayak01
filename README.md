@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Front-End Developer<br>🌐 Skilled in HTML, CSS, JavaScript, Node.js, Express.js and MySQL<br>🛠️ Building responsive and user-friendly web applications<br>📚 Continuously learning web development best practices<br>🚀 Focused on improving problem-solving and real-world project skills
+💻 Aspiring Front-End Developer<br>🌐 Skilled in HTML, CSS, JavaScript, Node.js, Express.js, REST API and MySQL<br>🛠️ Building responsive and user-friendly web applications<br>📚 Continuously learning web development best practices<br>🚀 Focused on improving problem-solving and real-world project skills
 
 
 ## 🌐 Socials:
