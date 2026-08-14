@@ -1,5 +1,13 @@
 # 💫 About Me:
-💻 Aspiring Front-End Developer<br>🌐 Skilled in HTML, CSS, JavaScript, Node.js, Express.js, REST API and MySQL<br>🛠️ Building responsive and user-friendly web applications<br>📚 Continuously learning web development best practices<br>🚀 Focused on improving problem-solving and real-world project skills
+🎓 MCA student and Full Stack Developer with hands-on experience in JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, HTML, and CSS. 
+ 
+ 💻 Built projects including HealthHub, Mobile Shop E-Commerce, AtithiStay, and ExpenseEase. 
+ 
+ 🔧 Experienced in REST APIs, authentication, CRUD operations, database management, payment integration, and responsive UI development. 
+ 
+ 🚀 Passionate about building scalable and user-friendly web applications. 
+ 
+ 📚 Continuously learning modern web technologies and improving my full-stack development skills.
 
 
 ## 🌐 Socials:
